@@ -5,7 +5,7 @@
 ---
 
 ## 🌐 Live Demo  
-👉 [**Deployed App**](#) — *Try out the AI Finance Agent in action!*
+👉 [**Deployed App**](https://astha-fi.vercel.app/) — *Try out the AI Finance Agent in action!*
 
 ---
 
